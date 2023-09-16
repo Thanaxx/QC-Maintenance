@@ -10,8 +10,8 @@ function error() {
                 <h1>ONGOING WEBSITE MAINTENANCE ACTIVITY</h1>
                 <p>Dear valued guest, <br />
                     To enhance your experience while navigating our website, you may direct all
-                    inquiries and comments to our official Facebook page: Las Casas Quezon City.
-                    For any other concerns, contact our Reservations team at +63917-136-6796 or +63933-822-4522. <br/>
+                    inquiries and comments to our official Facebook page: New San Jose Builders, Inc.
+                    For any other concerns, contact us at +63917-800-2260 or +63933-822-4522. <br/>
 
                     Thank you and we hope to see you soon!
                 </p>
